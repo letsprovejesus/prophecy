@@ -2,6 +2,8 @@
 
 There are over 3,000 prophecies in the Bible that have come true. However, many atheists claim that these prophecies do not exist or are too vague. Some may be vague, but there are enough that are not. I will present these prophecies here, along with their probability.
 
+I used ChatGPT in this source. And the WEB Bible
+
 ---
 
 # The birth of Jesus in Bethlehem
@@ -55,7 +57,7 @@ Total population of Judea (including Galilee and Samaria): approx. 500,000–1,0
 
 If you were born in Judea by chance, the probability that it would be in Bethlehem would be approximately:
 
-### 📘 Given Assumptions
+### Given Assumptions
 | Variable | Meaning | Estimated Value |
 |-----------|----------|-----------------|
 | N_total | Total population of Judea (including Galilee & Samaria, around 1st century) | 1,000,000 people |
@@ -63,19 +65,19 @@ If you were born in Judea by chance, the probability that it would be in Bethleh
 
 ---
 
-### 🧮 Calculation
+### Calculation
 P(Bethlehem) = N_Bethlehem / N_total  
 P(Bethlehem) = 1,000 / 1,000,000  
 P(Bethlehem) = 0.001 = 0.1%
 
 ---
 
-### 💡 Result
+### Result
 So, roughly **1 out of every 1,000** people from Judea would have been born in Bethlehem by chance.
 
 ---
 
-### 🧩 Notes
+### Notes
 - If Bethlehem’s population was smaller (say, 300):
   - P = 300 / 1,000,000 = 0.0003 = 0.03%
 - Therefore:
