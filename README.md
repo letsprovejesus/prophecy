@@ -38,3 +38,67 @@ This is also confirmed in Luke 2:1-7:
 
 6 While they were there, the day had come for her to give birth. 7 She gave birth to her firstborn son. She wrapped him in bands of cloth and laid him in a feeding trough, because there was no room for them in the inn.
 ```
+
+# How likely was it that he would be born in Bethlehem of all places? 
+
+At that time, Bethlehem was a small, insignificant village—not Jerusalem, not Hebron, not Samaria.
+This makes the prophecy concrete and verifiable.
+
+
+How small was Bethlehem at the time of Jesus?
+
+Archaeological estimates:
+
+Population of Bethlehem at the time of Jesus: approx. 300–1,000 people
+
+Total population of Judea (including Galilee and Samaria): approx. 500,000–1,000,000 people
+
+If you were born in Judea by chance, the probability that it would be in Bethlehem would be approximately:
+
+### 📘 Given Assumptions
+| Variable | Meaning | Estimated Value |
+|-----------|----------|-----------------|
+| \( N_{\text{total}} \) | Total population of Judea (including Galilee & Samaria, around 1st century) | \( 1{,}000{,}000 \) people |
+| \( N_{\text{Bethlehem}} \) | Population of Bethlehem at the time of Jesus | \( 1{,}000 \) people |
+
+---
+
+### 🧮 Calculation
+
+\[
+P(\text{Bethlehem}) = \frac{N_{\text{Bethlehem}}}{N_{\text{total}}}
+\]
+
+Substitute the values:
+
+\[
+P(\text{Bethlehem}) = \frac{1{,}000}{1{,}000{,}000}
+\]
+
+\[
+P(\text{Bethlehem}) = 0{.}001
+\]
+
+---
+
+### 💡 Result
+
+\[
+\boxed{P(\text{Bethlehem}) = 0{.}001 = 0{.}1\%}
+\]
+
+So, roughly **1 out of every 1,000** people from Judea would have been born in Bethlehem by chance.
+
+---
+
+### 🧩 Notes
+- If Bethlehem’s actual population was smaller (say, 300), then:
+  \[
+  P = \frac{300}{1{,}000{,}000} = 0{.}0003 = 0{.}03\%
+  \]
+- Therefore, the realistic range is:
+  \[
+  P(\text{Bethlehem}) \in [0{.}0003,\,0{.}001]
+  \]
+  → That’s approximately **1 in 1,000–3,000** chance.
+
