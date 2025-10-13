@@ -58,19 +58,28 @@ If you were born in Judea by chance, the probability that it would be in Bethleh
 ### 📘 Given Assumptions
 | Variable | Meaning | Estimated Value |
 |-----------|----------|-----------------|
-| \( N_{\text{total}} \) | Total population of Judea (including Galilee & Samaria, around 1st century) | \( 1{,}000{,}000 \) people |
-| \( N_{\text{Bethlehem}} \) | Population of Bethlehem at the time of Jesus | \( 1{,}000 \) people |
+| N_total | Total population of Judea (including Galilee & Samaria, around 1st century) | 1,000,000 people |
+| N_Bethlehem | Population of Bethlehem at the time of Jesus | 1,000 people |
 
 ---
 
-### 📘 Given Assumptions
-| Variable | Meaning | Estimated Value |
-|-----------|----------|-----------------|
-| \( N_{\text{total}} \) | Total population of Judea | \( 1{,}000{,}000 \) |
-| \( N_{\text{Bethlehem}} \) | Population of Bethlehem | \( 1{,}000 \) |
+### 🧮 Calculation
+P(Bethlehem) = N_Bethlehem / N_total  
+P(Bethlehem) = 1,000 / 1,000,000  
+P(Bethlehem) = 0.001 = 0.1%
 
-\[
-P(\text{Bethlehem}) = \frac{N_{\text{Bethlehem}}}{N_{\text{total}}} = \frac{1{,}000}{1{,}000{,}000} = 0{.}001 = 0{.}1\%
-\]
+---
+
+### 💡 Result
+So, roughly **1 out of every 1,000** people from Judea would have been born in Bethlehem by chance.
+
+---
+
+### 🧩 Notes
+- If Bethlehem’s population was smaller (say, 300):
+  - P = 300 / 1,000,000 = 0.0003 = 0.03%
+- Therefore:
+  - P(Bethlehem) ≈ 0.03%–0.1%  
+  → **≈ 1 in 1,000–3,000 chance**
 
 
