@@ -63,42 +63,14 @@ If you were born in Judea by chance, the probability that it would be in Bethleh
 
 ---
 
-### 🧮 Calculation
+### 📘 Given Assumptions
+| Variable | Meaning | Estimated Value |
+|-----------|----------|-----------------|
+| \( N_{\text{total}} \) | Total population of Judea | \( 1{,}000{,}000 \) |
+| \( N_{\text{Bethlehem}} \) | Population of Bethlehem | \( 1{,}000 \) |
 
 \[
-P(\text{Bethlehem}) = \frac{N_{\text{Bethlehem}}}{N_{\text{total}}}
+P(\text{Bethlehem}) = \frac{N_{\text{Bethlehem}}}{N_{\text{total}}} = \frac{1{,}000}{1{,}000{,}000} = 0{.}001 = 0{.}1\%
 \]
 
-Substitute the values:
-
-\[
-P(\text{Bethlehem}) = \frac{1{,}000}{1{,}000{,}000}
-\]
-
-\[
-P(\text{Bethlehem}) = 0{.}001
-\]
-
----
-
-### 💡 Result
-
-\[
-\boxed{P(\text{Bethlehem}) = 0{.}001 = 0{.}1\%}
-\]
-
-So, roughly **1 out of every 1,000** people from Judea would have been born in Bethlehem by chance.
-
----
-
-### 🧩 Notes
-- If Bethlehem’s actual population was smaller (say, 300), then:
-  \[
-  P = \frac{300}{1{,}000{,}000} = 0{.}0003 = 0{.}03\%
-  \]
-- Therefore, the realistic range is:
-  \[
-  P(\text{Bethlehem}) \in [0{.}0003,\,0{.}001]
-  \]
-  → That’s approximately **1 in 1,000–3,000** chance.
 
