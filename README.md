@@ -84,4 +84,37 @@ So, roughly **1 out of every 1,000** people from Judea would have been born in B
   - P(Bethlehem) ≈ 0.03%–0.1%  
   → **≈ 1 in 1,000–3,000 chance**
 
+Let's assume the worst case scenario and say that 1,000 people lived there, so we'll take 0.1%.
 
+---
+
+# The Virgin Birth
+
+The Old Testament describes that the Messiah will be born of a virgin. Isaiah 7:14 states the following:
+
+```
+14 Therefore the Lord himself will give you a sign. Behold, the virgin will conceive, and bear a son, and shall call his name Immanuel.[a]
+```
+a: 7:14 “Immanuel” means “God with us”.
+
+This is confirmed in Luke 26:33.
+```
+26 Now in the sixth month, the angel Gabriel was sent from God to a city of Galilee named Nazareth, 27 to a virgin pledged to be married to a man whose name was Joseph, of David’s house. The virgin’s name was Mary. 28 Having come in, the angel said to her, “Rejoice, you highly favored one! The Lord is with you. Blessed are you among women!”
+
+29 But when she saw him, she was greatly troubled at the saying, and considered what kind of salutation this might be. 30 The angel said to her, “Don’t be afraid, Mary, for you have found favor with God. 31 Behold, you will conceive in your womb and give birth to a son, and shall name him ‘Jesus.’ 32 He will be great and will be called the Son of the Most High. The Lord God will give him the throne of his father David, 33 and he will reign over the house of Jacob forever. There will be no end to his Kingdom.”
+```
+
+Matthew 1:18-25 also confirms this, so again we have two different independent sources.
+
+```
+18 Now the birth of Jesus Christ was like this: After his mother, Mary, was engaged to Joseph, before they came together, she was found pregnant by the Holy Spirit. 19 Joseph, her husband, being a righteous man, and not willing to make her a public example, intended to put her away secretly. 20 But when he thought about these things, behold,[d] an angel of the Lord appeared to him in a dream, saying, “Joseph, son of David, don’t be afraid to take to yourself Mary as your wife, for that which is conceived in her is of the Holy Spirit. 21 She shall give birth to a son. You shall name him Jesus,[e] for it is he who shall save his people from their sins.”
+
+22 Now all this has happened that it might be fulfilled which was spoken by the Lord through the prophet, saying,
+
+23 “Behold, the virgin shall be with child,
+    and shall give birth to a son.
+They shall call his name Immanuel,”
+    which is, being interpreted, “God with us.”
+
+24 Joseph arose from his sleep, and did as the angel of the Lord commanded him, and took his wife to himself; 25 and didn’t know her sexually until she had given birth to her firstborn son. He named him Jesus.
+```
