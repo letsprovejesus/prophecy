@@ -802,4 +802,77 @@ The **return of the Jewish people** is one of the **most clearly fulfilled proph
 The **Dead Sea Scrolls** confirm that these prophetic texts (Isaiah, Ezekiel, Amos) existed **centuries before Christ**, ruling out any post-event editing.  
 Thus, the restoration of Israel stands as one of the **most verifiable and ongoing prophetic fulfillments** in world history — visible to this very day.
 
+---
+
+## ⚓ Prophecy Against Tyre — Ezekiel 26–28
+
+### 📖 1. The Prophecy (Ezekiel 26:1–14)
+
+In the 6th century BC, the prophet **Ezekiel** delivered a detailed prophecy about the destruction of **Tyre (Tyrus)**, a powerful Phoenician port city on the Mediterranean coast.
+
+> **Ezekiel 26:3–5, 12, 14**  
+> “I am against you, O Tyre…  
+> Many nations will come up against you…  
+> They will destroy your walls and break down your towers;  
+> I will scrape her dust from her and make her a **bare rock**.  
+> She shall be a place for the spreading of nets in the midst of the sea.  
+> …They will plunder your wealth and loot your merchandise;  
+> They will break down your walls and destroy your pleasant houses.  
+> …You shall **never be rebuilt**, for I the Lord have spoken.”
+
+---
+
+### 🏛️ 2. Key Details of the Prophecy
+
+| Detail | Description | Predicted in Ezekiel | Historical Fulfillment |
+|--------|--------------|----------------------|------------------------|
+| **1️⃣ Many nations will attack Tyre** | Tyre will face multiple successive invasions. | 26:3 | Fulfilled over centuries — by **Babylon**, **Persia**, **Greece**, and later **Rome**. |
+| **2️⃣ Nebuchadnezzar will besiege Tyre** | The first major attacker is identified by name. | 26:7–11 | **Nebuchadnezzar II** besieged Tyre for **13 years (586–573 BC)**. |
+| **3️⃣ City will be scraped “like a bare rock”** | The ruins and debris will be thrown into the sea. | 26:4, 12 | **Alexander the Great (332 BC)** used Tyre’s rubble to build a **causeway** to the island fortress, literally pushing debris into the sea. |
+| **4️⃣ Fishermen will spread their nets there** | The site will become a flat, abandoned place by the sea. | 26:5, 14 | Today the ancient mainland site is used by **local fishermen** — exactly as described. |
+| **5️⃣ Tyre will never be rebuilt to former glory** | Complete and permanent downfall. | 26:14 | The ancient mainland Tyre remains in ruins; the island city declined and never regained its power. |
+
+---
+
+### 🧭 3. Historical Overview
+
+| Year | Event | Description |
+|------|--------|-------------|
+| **586–573 BC** | Siege by Nebuchadnezzar II (Babylon). | Destroyed the mainland city; survivors fled to an island offshore. |
+| **332 BC** | Conquest by Alexander the Great (Greece). | Built a causeway from debris, captured and destroyed the island city. |
+| **After 300 BC** | Decline under Hellenistic & Roman rule. | Tyre lost independence and became a small coastal town. |
+| **Today** | Modern town of Ṣūr (Lebanon) near ruins. | The ancient site remains a **“bare rock”**, partly submerged. |
+
+---
+
+### 📊 4. Probability Estimate
+
+| Prophetic Detail | Specificity | Estimated Random Probability |
+|------------------|--------------|-------------------------------|
+| Many nations invade over time | Moderate (unusual for one city) | ~1 : 50 |
+| Named attacker: Nebuchadnezzar | High (specific name, before event) | ~1 : 1 000 |
+| City debris thrown into the sea | Extremely specific | ~1 : 1 000 |
+| Site becomes a flat “bare rock” used by fishermen | Highly unusual outcome | ~1 : 500 |
+| City never fully rebuilt | Historically accurate, rare | ~1 : 500 |
+
+**Combined probability (approximation):**
+
+P(random) = 1/50 × 1/1 000 × 1/1 000 × 1/500 × 1/500  
+≈ **1 / 1.25 × 10¹⁴**
+
+➡️ Roughly **1 in 125 trillion** chance that all details would coincide purely by accident.
+
+---
+
+### 💡 5. Summary
+
+The prophecy against Tyre (Ezekiel 26–28) stands out for its **specificity and layered fulfillment**:
+
+- **Nebuchadnezzar** destroyed the mainland city (first phase).  
+- **Alexander the Great** threw its debris into the sea (second phase).  
+- The **site remains barren** and used by fishermen, exactly as described.  
+
+Archaeology and history confirm that these events unfolded **exactly as Ezekiel recorded**, over a span of **250 years** —  
+making this one of the **clearest, multi-stage fulfilled prophecies** in the entire Bible.
+
 
