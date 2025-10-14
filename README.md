@@ -442,3 +442,41 @@ P(random) ≈ 1/20 × 1/10 × 1/100 × 1/20 × 1/50 × 1/500 × 1/1000 × 1/100
 
 **Summary:**  
 Isaiah 52–53 presents an unusually dense sequence of predictions — rejection, suffering, silence, unjust death, burial with the rich, and ultimate vindication — all of which align strikingly with the New Testament account of Jesus’ crucifixion and resurrection.
+
+---
+
+The Prophecies of Isaiah and the Qumran Scrolls – Why They Cannot Have Been Written Later
+
+One of the most fascinating aspects of the Bible is that the prophecies in the Book of Isaiah, especially chapters 52 and 53 about the suffering and death of the “Servant of God,” fit the life and death of Jesus of Nazareth in an astonishing way.
+Critics long suspected that these texts might have been altered or supplemented later – that is, after Jesus' crucifixion in the 1st century AD.
+However, archaeological finds from the Dead Sea have conclusively disproved this theory.
+
+In 1947, a Bedouin boy discovered several clay jars containing ancient scrolls in a cave near Qumran, on the northwestern shore of the Dead Sea.
+In the following years, over 900 scrolls and fragments were found in a total of eleven caves – including almost all the books of the Old Testament.
+The most significant find is the so-called Great Isaiah Scroll (1QIsaᵃ) from Cave 1.
+It contains the complete Book of Isaiah – from chapters 1 to 66 – and is fully preserved, 7.34 meters long and made of carefully inscribed parchment.
+
+This Isaiah scroll has been dated to around 125 BC by radiocarbon dating (C14) and paleographic analysis of the script, with a possible margin of error of ±25 years.
+This means that
+the text existed at least 100 years before the birth of Jesus—that is, around 150–200 years before his crucifixion.
+This rules out the possibility that the passages about the suffering servant of God (“He was pierced for our transgressions ...”, Isaiah 53:5) were written or adapted later in light of Jesus' crucifixion.
+
+Particularly noteworthy:
+A comparison of the Qumran Isaiah scroll with later Hebrew Bible manuscripts (e.g., the Codex Leningradensis from 1008 AD) shows an astonishingly high degree of textual fidelity.
+Apart from minor orthographic differences (e.g., the spelling of individual words), the content of both versions is almost identical.
+This shows that the Isaiah text has been handed down almost unchanged for more than a thousand years.
+
+This provides clear historical evidence that
+
+the Isaiah text in Qumran already contains the complete suffering prophecies (Isaiah 52:13–53:12).
+
+These words were written down at least a century before Christ.
+
+There is no archaeological or textual evidence to suggest that these chapters were added later.
+
+In other words:
+When Jesus was alive, the prophecies of Isaiah had long been available, and their correspondence with the events of the Passion cannot be attributed to subsequent adaptation.
+
+The Qumran discoveries have thus revealed something unique:
+The texts that Christians have read for centuries as messianic predictions are in fact pre-Christian documents.
+They prove that the image of the “suffering servant of God” who is ‘pierced’ and “crushed for the sins of others” already existed in the original Hebrew text centuries before the crucifixion of Jesus.
