@@ -118,3 +118,9 @@ They shall call his name Immanuel,”
 
 24 Joseph arose from his sleep, and did as the angel of the Lord commanded him, and took his wife to himself; 25 and didn’t know her sexually until she had given birth to her firstborn son. He named him Jesus.
 ```
+
+# How likely is that?
+
+Since miracles cannot happen without divine intervention from a scientific point of view, let's assume a 50% probability here. I think we all know that this is a very generous estimate.
+
+P(Virgin) = 0.5 = 50%
