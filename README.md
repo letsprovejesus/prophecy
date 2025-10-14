@@ -443,7 +443,11 @@ P(random) ≈ 1/20 × 1/10 × 1/100 × 1/20 × 1/50 × 1/500 × 1/1000 × 1/100
 **Summary:**  
 Isaiah 52–53 presents an unusually dense sequence of predictions — rejection, suffering, silence, unjust death, burial with the rich, and ultimate vindication — all of which align strikingly with the New Testament account of Jesus’ crucifixion and resurrection.
 
+I have only taken prophecies from the Book of Isaiah here, and I did not do so by chance; I have a good reason for it. Such prophecies can also be found in other books of the Bible.
+
 ---
+
+# Why?
 
 The Prophecies of Isaiah and the Qumran Scrolls – Why They Cannot Have Been Written Later
 
