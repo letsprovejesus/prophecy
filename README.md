@@ -610,7 +610,7 @@ At the end of the vision, a **“stone cut out without human hands”** strikes 
 This stone represents the **Kingdom of God**, which, according to Daniel 2:44,  
 > “will never be destroyed, nor will it be left to another people; it will crush all these kingdoms and will itself endure forever.”
 
-### 🦁 3. Daniel’s Second Vision (Daniel 7)
+### 3. Daniel’s Second Vision (Daniel 7)
 
 In Daniel 7, the prophet receives a **vision of four great beasts** rising from the sea.  
 These beasts symbolize the **same sequence of world empires** as the statue in Daniel 2, but with more emphasis on their nature and character.
@@ -632,7 +632,7 @@ and the **“Son of Man”** receives eternal dominion (Daniel 7:13–14):
 This vision parallels the statue in Daniel 2 but adds a **spiritual conclusion** —  
 the rise of the **eternal Kingdom of God**, ruled by the “Son of Man.”
 
-### 📜 4. Historical Fulfillment of Daniel’s Prophecies
+### 4. Historical Fulfillment of Daniel’s Prophecies
 
 The sequence of empires predicted in Daniel 2 and 7 can be traced precisely through recorded world history.  
 Each kingdom matches the symbolic imagery and the order Daniel described — centuries before most of these events occurred.
@@ -653,27 +653,27 @@ At the end of this sequence, Daniel foretells the appearance of a **divine kingd
 This long-range prophecy accurately outlines over **600 years of geopolitical history**,  
 from Babylon’s rise to Rome’s decline — a sequence unmatched in ancient literature.
 
-### 🧩 5. Archaeological and Textual Evidence
+### 5. Archaeological and Textual Evidence
 
 Modern archaeology and manuscript studies provide strong evidence that the Book of Daniel — and its world-empire prophecies — existed **long before** many of the predicted events took place.
 
-#### 🏺 The Dead Sea Scrolls (Qumran)
+#### The Dead Sea Scrolls (Qumran)
 - Fragments of **the Book of Daniel** were found among the **Dead Sea Scrolls** at Qumran.  
 - These include copies of **Daniel chapters 1, 2, 3, 4, 5, 7, 8, 10, 11, and 12**.  
 - The manuscripts are dated by **paleography and carbon-14** to around **150–125 BC**.  
 - This means that the Book of Daniel was already **in circulation** at least **150 years before the birth of Christ** — and before the rise of the **Roman Empire**, which Daniel’s visions already describe.
 
-#### 🕎 Textual Stability
+#### Textual Stability
 - The Qumran fragments match the later **Masoretic Hebrew Text** with remarkable accuracy.  
 - Apart from minor spelling differences, **the content is identical** — proving that the text was **not rewritten or “updated”** after the predicted events occurred.
 
-#### 🏛️ Historical References
+#### Historical References
 - Ancient Jewish and Greek sources (e.g., **Josephus**, *Antiquities* 10.11.7) mention Daniel as a respected prophet known **before the Maccabean era**.  
 - The **Septuagint (Greek Old Testament)**, translated around **250–200 BC**, already includes the Book of Daniel — further confirming its pre-Christian origin.
 
 ---
 
-### ✅ Summary
+### Summary
 
 The **archaeological record** leaves no credible room for the claim that Daniel’s prophecies were written *after* the events they describe.  
 The **Qumran manuscripts** and early translations demonstrate that Daniel’s visions of Babylon, Persia, Greece, and Rome were already well-known **centuries before** their fulfillment.
@@ -682,7 +682,7 @@ In other words:
 > The Book of Daniel is not a product of hindsight — it is a document of foresight,  
 > preserved with extraordinary textual precision for over two millennia.
 
-### ⚙️ 6. Probability Estimate — Daniel’s Prophecies of the World Empires
+### 6. Probability Estimate — Daniel’s Prophecies of the World Empires
 
 Daniel’s visions (chapters 2 and 7) describe the rise and fall of four successive world empires, their internal features, and their eventual division — all centuries before these events unfolded.  
 Below is a simplified statistical approximation of how unlikely it would be for these details to align purely by coincidence.
@@ -699,7 +699,7 @@ Below is a simplified statistical approximation of how unlikely it would be for 
 
 # The prophecy of the return of the Israelites
 
-### 🧮 Combined Probability (approximation)
+### Combined Probability (approximation)
 
 If the first four historical details are treated as roughly independent:
 
@@ -730,7 +730,7 @@ It appears in **two distinct phases**:
 
 ---
 
-### 📜 1. First Fulfillment — Return from the Babylonian Exile (6th Century BC)
+### 1. First Fulfillment — Return from the Babylonian Exile (6th Century BC)
 
 After Jerusalem was destroyed in 586 BC, the Jews lived in Babylonian captivity for 70 years.  
 Several prophets — **Isaiah, Jeremiah, Daniel, and Ezekiel** — foretold not only the exile but also the **return** to their land.
@@ -746,7 +746,7 @@ Several prophets — **Isaiah, Jeremiah, Daniel, and Ezekiel** — foretold not 
 
 ---
 
-### 🌍 2. Second Fulfillment — Worldwide Regathering of Israel
+### 2. Second Fulfillment — Worldwide Regathering of Israel
 
 Many later prophecies speak of a **second return**, not just from Babylon but from **all nations of the earth** — a global restoration.  
 This points beyond the ancient exile and aligns closely with the **modern return of Jews to Israel (1948–present)**.
@@ -763,7 +763,7 @@ This points beyond the ancient exile and aligns closely with the **modern return
 
 ---
 
-### 🕎 3. Historical Development — Modern Fulfillment
+### 3. Historical Development — Modern Fulfillment
 
 | Year | Historical Event | Connection to Prophecy |
 |------|-------------------|-------------------------|
@@ -775,7 +775,7 @@ This points beyond the ancient exile and aligns closely with the **modern return
 
 ---
 
-### 📊 4. Probability Estimate
+### 4. Probability Estimate
 
 | Event | Prophetic Statement | Estimated Random Probability |
 |--------|---------------------|-------------------------------|
@@ -792,7 +792,7 @@ P(random) = 1/100 × 1/1,000 × 1/1,000 × 1/500 ≈ **1 / 50,000,000,000**
 
 ---
 
-### 💡 5. Summary
+### 5. Summary
 
 The **return of the Jewish people** is one of the **most clearly fulfilled prophecies in history**:
 
