@@ -234,6 +234,57 @@ Just to explain, so you understand the context. Now let's calculate how likely t
 
 # How likely is it that
 
+This is one of the most interesting prophecies because it seems so specific:
+
+a specific sum (30 pieces of silver)
+
+a specific action (money thrown away in the temple)
+
+a specific group of people (religious leaders)
+
+a specific object (the potter's field)
+
+So it is not just a “vague symbol,” but several precise details that connect Matthew 27 with Zechariah 11:12–13.
+
+Step 1: What exactly does the prophecy say?
+"They weighed out thirty pieces of silver as my reward.
+The LORD said, 'Throw it to the smelter [or: potter], the glorious money ...
+and I threw it into the house of the LORD, to the potter."
+— Zechariah 11:12–13
+
+This means:
+
+the shepherd (symbolizing the Messiah) is “valued” at 30 pieces of silver,
+
+the money ends up in the temple,
+
+and it goes to a potter.
+
+Step 2: Fulfillment in the New Testament
+
+Matthew 27:3–10:
+
+Judas betrays Jesus for 30 pieces of silver,
+
+he throws the money into the temple,
+
+the priests use it to buy the “potter's field.”
+
+These are three very specific correspondences with Zechariah 11.
+
+### ⚙️ Step 3: Probability Estimate
+
+| Feature | Prophecy (Zechariah 11) | Fulfillment (Matthew 27) | Estimated Random Probability |
+|----------|--------------------------|---------------------------|-------------------------------|
+| 1️⃣ Specific price | "They weighed out thirty pieces of silver as my wages." | Judas is paid exactly thirty pieces of silver. | ~1 : 1,000 (a specific sum among many possible) |
+| 2️⃣ Temple connection | "Throw it to the house of the LORD." | Judas throws the money into the temple. | ~1 : 100 (matching location) |
+| 3️⃣ Potter reference | "...to the potter." | The priests buy the potter’s field. | ~1 : 50 (rare symbolic link) |
+
+**Combined probability (if independent):**
+
+P(random) = 1/1000 × 1/100 × 1/50 = 1/5,000,000
+
+➡️ Roughly **1 in 5 million** chance that all three details would align purely by coincidence.
 
 
 
