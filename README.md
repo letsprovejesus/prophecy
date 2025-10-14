@@ -375,3 +375,37 @@ Mark 15, 3-5
 
 5 But Jesus made no further answer, so that Pilate marveled.
 ```
+
+# How likely is this?
+
+Meaning:
+
+“Face like a pebble” → an image of determination and steadfastness.
+
+The servant of God does not retreat, even when faced with suffering, ridicule, or death.
+
+He trusts in God and remains unshaken within.
+
+### ✝️ 2. Fulfillment in the New Testament
+
+| Reference | Description | Parallel to Isaiah 50:7 |
+|------------|--------------|--------------------------|
+| **Luke 9:51** | “When the days drew near for him to be taken up, **he set his face resolutely toward Jerusalem**.” | Almost a direct echo — Jesus shows firm determination despite knowing he will suffer. |
+| **Mark 15:5** | Jesus **stands silent before Pilate**, though he faces injustice and death. | Shows composure, courage, and inner strength. |
+| **John 18:4–8** | Jesus **steps forward voluntarily** to meet the soldiers arresting him. | Demonstrates willing surrender and fearless obedience. |
+
+---
+
+### 📊 3. Probability Estimate (realistic approximation)
+
+| Feature | Prophecy (Isaiah 50:7) | Fulfillment (in Jesus) | Estimated Random Probability |
+|----------|-------------------------|------------------------|-------------------------------|
+| 1️⃣ Determined despite threat of death | “I set my face like flint.” | Jesus goes willingly to Jerusalem (Luke 9:51). | ~1 : 5 (most would try to escape) |
+| 2️⃣ Trust in God’s help | “The Lord God helps me.” | Jesus prays in Gethsemane, trusting: “Your will be done.” | ~1 : 3 (faith common, but this level of resolve is rare) |
+| 3️⃣ Not disgraced / ultimately vindicated | “I shall not be put to shame.” | Resurrection and moral victory after condemnation. | ~1 : 10 (rare moral triumph after execution) |
+
+**Combined random probability (approx.):**
+
+P(random) = 1/5 × 1/3 × 1/10 ≈ 1/150  
+
+➡️ Roughly **1 in 150** chance that all three traits would align purely by coincidence.
