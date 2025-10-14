@@ -876,3 +876,33 @@ Archaeology and history confirm that these events unfolded **exactly as Ezekiel 
 making this one of the **clearest, multi-stage fulfilled prophecies** in the entire Bible.
 
 ---
+
+# Summary
+
+Let's summarize what we have so far. 
+We have the following prophecies
+
+| # | Section / Theme | Number of Individual Prophecies |
+|---|------------------|---------------------------------|
+| 1 | Birth in Bethlehem | 1 |
+| 2 | Virgin Birth | 1 |
+| 3 | Betrayal for 30 Pieces of Silver | 3 |
+| 4 | Suffering of the Messiah (Isaiah 50:6) | 3 |
+| 5 | Steadfastness of Jesus (Isaiah 50:7) | 3 |
+| 6 | Crucifixion & Death of the Messiah (Isaiah 52–53) | 8 |
+| 7 | Destruction of Babylon (Isaiah 13) | 4 |
+| 8 | World Empires (Book of Daniel) | 4 |
+| 9 | Return of Israel | 4 |
+| 10 | Destruction of Tyre (Ezekiel 26) | 5 |
+| **Total** |  | **36 Prophecies** |
+
+A 50-50 prediction is actually like flipping a coin. When we flip a coin, we have the possibility of getting heads or tails. 
+
+| Range (number of heads) | Description                 | Probability (≈)        | Comparable example (approx.)                                  |
+|-------------------------|-----------------------------|------------------------|----------------------------------------------------------------|
+| 10 heads                | rare, but realistic         | 9.77×10⁻⁴             | Guessing a 3-digit PIN on the first try                       |
+| 20 heads                | very unlikely               | 9.54×10⁻⁷             | Lifetime chance of being struck by lightning (~1 in 10⁶)      |
+| 30 heads                | virtually impossible        | 9.31×10⁻¹⁰            | Hitting a 1-in-a-billion jackpot once                         |
+| 36 heads                | astronomically unlikely     | 1.46×10⁻¹¹            | Picking 1 specific item out of ~100 billion on the first try  |
+
+Highly unlikely, right? And here we are currently assuming a 50-50 chance. I have already calculated the approximate probabilities for the individual prophecies, and we will now multiply these.
