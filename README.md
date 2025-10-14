@@ -352,3 +352,26 @@ In the fulfillment in the New Testament: Three of the four details are literally
 P(random) = 1/5 × 1/20 × 1/10 = 1/1,000
 
 ➡️ Roughly **1 in 1,000** chance that all three details would coincide purely by coincidence.
+
+---
+
+# The steadfastness of Jesus
+
+Isaiah 50:6 says the following:
+
+```
+7 Because the Sovereign Lord helps me,
+    I will not be disgraced.
+Therefore have I set my face like flint,
+    and I know I will not be put to shame.
+```
+
+Meaning: The servant remains steadfast in suffering and trusts in God.
+
+This is fulfilled in the New Testament in:
+Mark 15, 3-5
+```
+3 The chief priests accused him of many things. 4 Pilate again asked him, “Have you no answer? See how many things they testify against you!”
+
+5 But Jesus made no further answer, so that Pilate marveled.
+```
