@@ -536,3 +536,46 @@ Later (after Alexander the Great), the city finally fell into ruin and was never
 ```
 20 It will never be inhabited, neither will it be lived in from generation to generation. The Arabian will not pitch a tent there, neither will shepherds make their flocks lie down there. 21 But wild animals of the desert will lie there, and their houses will be full of jackals. Ostriches will dwell there, and wild goats will frolic there. 22 Hyenas will cry in their fortresses, and jackals in the pleasant palaces. Her time is near to come, and her days will not be prolonged.
 ```
+
+### Why This Prophecy Is Historically Remarkable
+
+| Aspect | Prophecy (Isaiah 13) | Fulfillment | Time Gap |
+|---------|----------------------|--------------|-----------|
+| **Rise of Babylon** | At the time of Isaiah, Babylon was **not yet a world power** — still under Assyrian dominance. | Babylon became an empire under **Nebuchadnezzar II (626–539 BC)**. | ~100 years after Isaiah. |
+| **Invaders Named: the Medes** | “Behold, I will stir up the **Medes** against them…” (Isaiah 13:17). | **Medes and Persians** under Cyrus conquered Babylon in **539 BC**. | ~160 years after Isaiah. |
+| **Permanent Destruction** | “Babylon… will be like **Sodom and Gomorrah**… it will never be inhabited again.” (Isaiah 13:19–20) | Babylon lost its power, became ruins, and has **never been permanently rebuilt**. | Fulfilled to this day. |
+
+---
+
+**Summary:**  
+Isaiah 13 predicted the fall of Babylon **long before** the empire even rose to prominence.  
+It named the **exact invaders (the Medes)** and foretold Babylon’s **permanent desolation** — all confirmed by later historical and archaeological evidence.  
+The time gap of **about 150–180 years** between the prophecy and its fulfillment makes this one of the most striking long-range prophecies in ancient literature.
+
+# How likely is this?
+
+### 📊 Probability Estimate — Isaiah 13 (Prophecy of Babylon’s Fall)
+
+| Predicted Event | Description (from Isaiah 13) | Historical Fulfillment | Estimated Random Probability |
+|------------------|-------------------------------|------------------------|-------------------------------|
+| **1️⃣ Babylon will fall violently** | Isaiah predicts the destruction of Babylon, even though it was not yet a major power in his day (~700 BC). | Babylon fell to the Medo-Persian army in 539 BC. | ~1 : 100 (predicting the fall of a small state that later becomes an empire is unlikely but not impossible). |
+| **2️⃣ The invaders will be the Medes** | Isaiah explicitly names the *Medes* as Babylon’s future attackers (Isa 13:17). | The Medes (with the Persians under Cyrus) conquered Babylon. | ~1 : 1 000 (naming the correct nation 150+ years ahead is very specific). |
+| **3️⃣ Babylon will be permanently desolate** | “It will never be inhabited again… only wild animals will dwell there.” (Isa 13:20–22) | The city was gradually abandoned and never rebuilt as a major city. | ~1 : 500 (cities often decline, but total, lasting desolation is rare). |
+| **4️⃣ Comparison to Sodom and Gomorrah** | “It will be like Sodom and Gomorrah when God overthrew them.” (Isa 13:19) | Babylon’s ruins became symbolic of divine judgment and desolation. | ~1 : 100 (metaphorical but surprisingly accurate description). |
+
+---
+
+### 🧮 Combined Probability (approximate, assuming partial independence)
+
+P(random) = 1/100 × 1/1 000 × 1/500 × 1/100  
+≈ **1 / 5 × 10⁹** (≈ 1 in 5 billion)
+
+➡️ Roughly **one chance in five billion** that all these specific details could align purely by coincidence.
+
+---
+
+### 💡 Interpretation
+- **Isaiah wrote ~150–180 years before** Babylon’s fall, when **Assyria** was still the dominant empire.  
+- He **named the exact future invaders (Medes)** and described **permanent ruin**, which history confirms.  
+- While any single prediction might be luck, the **combination of timing, naming, and lasting desolation** makes a random fulfillment **extremely improbable**.
+
