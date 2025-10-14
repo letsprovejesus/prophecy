@@ -286,6 +286,15 @@ P(random) = 1/1000 × 1/100 × 1/50 = 1/5,000,000
 
 ➡️ Roughly **1 in 5 million** chance that all three details would align purely by coincidence.
 
+Incidentally, this story is also described in Mark 14:10–11 and Luke 22:3–6, albeit not in such detail.
 
+```
+10 Then Judas Iscariot, one of the Twelve, went to the chief priests to betray Jesus to them. 11 They were delighted to hear this and promised to give him money. So he watched for an opportunity to hand him over.
+```
 
+```
+3 Then Satan entered Judas, called Iscariot, one of the Twelve. 4 And Judas went to the chief priests and the officers of the temple guard and discussed with them how he might betray Jesus. 5 They were delighted and agreed to give him money. 6 He consented, and watched for an opportunity to hand Jesus over to them when no crowd was present.
+```
+
+---
 
