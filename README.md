@@ -484,3 +484,55 @@ When Jesus was alive, the prophecies of Isaiah had long been available, and thei
 The Qumran discoveries have thus revealed something unique:
 The texts that Christians have read for centuries as messianic predictions are in fact pre-Christian documents.
 They prove that the image of the “suffering servant of God” who is ‘pierced’ and “crushed for the sins of others” already existed in the original Hebrew text centuries before the crucifixion of Jesus.
+
+---
+
+# The destruction of Babylon was prophesied
+
+Isaiah 13 contains one of the most impressive “prophecies of judgment” in the Old Testament: the announcement of the fall of Babylon—about 150 years before Babylon actually fell.
+
+```
+13 The burden of Babylon, which Isaiah the son of Amoz saw.
+```
+
+This marks the beginning of an entire section (Isaiah 13–14) that predicts the fall of the Babylonian Empire.
+
+For context:
+
+Isaiah was active in Judah from around 740 to 700 BC.
+
+At that time, Assyria was the great power, while Babylon was still relatively insignificant.
+
+It was not until about 100 years later (from 609 BC) that Babylon became a world power under Nebuchadnezzar II.
+
+The fall of Babylon then took place in 539 BC, some 160–180 years after Isaiah's ministry.
+
+Then it continues in verses 17-19: 
+
+```
+17 Behold, I will stir up the Medes against them, who will not value silver, and as for gold, they will not delight in it. 18 Their bows will dash the young men in pieces; and they shall have no pity on the fruit of the womb. Their eyes will not spare children. 19 Babylon, the glory of kingdoms, the beauty of the Chaldeans’ pride, will be like when God overthrew Sodom and Gomorrah.
+```
+
+Important details:
+
+The enemy is named: the Medes (the Persians join later).
+
+Babylon is completely destroyed and not rebuilt.
+
+The image of Sodom and Gomorrah emphasizes: total devastation, no reconstruction.
+
+Historical fulfillment
+
+The prophecy was fulfilled in 539 BC when:
+
+King Cyrus the Great, a Persian, conquered Babylon together with the Medes.
+
+According to historical sources (Herodotus, Babylonian Chronicle), this happened almost without a fight after the Persians had diverted the Euphrates River.
+
+After that, Babylon was politically disempowered and gradually lost its importance.
+
+Later (after Alexander the Great), the city finally fell into ruin and was never permanently inhabited again—just as Isaiah 13:20–22 says:
+
+```
+20 It will never be inhabited, neither will it be lived in from generation to generation. The Arabian will not pitch a tent there, neither will shepherds make their flocks lie down there. 21 But wild animals of the desert will lie there, and their houses will be full of jackals. Ostriches will dwell there, and wild goats will frolic there. 22 Hyenas will cry in their fortresses, and jackals in the pleasant palaces. Her time is near to come, and her days will not be prolonged.
+```
