@@ -124,3 +124,54 @@ They shall call his name Immanuel,”
 Since miracles cannot happen without divine intervention from a scientific point of view, let's assume a 50% probability here. I think we all know that this is a very generous estimate.
 
 P(Virgin) = 0.5 = 50%
+
+---
+
+# Betrayed for 30 pieces of silver
+
+It was prophesied that Jesus would be betrayed for 30 pieces of silver.
+
+```
+11 It was broken in that day; and thus the poor of the flock that listened to me knew that it was Yahweh’s word. 12 I said to them, “If you think it best, give me my wages; and if not, keep them.” So they weighed for my wages thirty pieces of silver.
+```
+
+Context in the Book of Zechariah
+
+Zechariah speaks symbolically as a shepherd who tends the people of Israel.
+But the people reject him—symbolically, just as Israel later rejects the Messiah.
+The 30 pieces of silver are the “wages” they pay him for his loyalty—a mocking price.
+
+In Exodus 21:32, this is the price for a slave—the lowest possible wage.
+
+This shows that:
+
+The good shepherd (a picture of the Messiah) is valued and despised like a slave.
+
+In the New Testament, the previously prophesied event is described in the following passages:
+
+Matthew 26,14-16
+```
+14 Then one of the twelve, who was called Judas Iscariot, went to the chief priests 15 and said, “What are you willing to give me if I deliver him to you?” So they weighed out for him thirty pieces of silver. 16 From that time he sought opportunity to betray him.
+```
+
+Matthew 27,3-10
+
+```
+3 Then Judas, who betrayed him, when he saw that Jesus was condemned, felt remorse, and brought back the thirty pieces of silver to the chief priests and elders, 4 saying, “I have sinned in that I betrayed innocent blood.”
+
+But they said, “What is that to us? You see to it.”
+
+5 He threw down the pieces of silver in the sanctuary and departed. Then he went away and hanged himself.
+
+6 The chief priests took the pieces of silver and said, “It’s not lawful to put them into the treasury, since it is the price of blood.” 7 They took counsel, and bought the potter’s field with them to bury strangers in. 8 Therefore that field has been called “The Field of Blood” to this day. 9 Then that which was spoken through Jeremiah[a] the prophet was fulfilled, saying,
+
+“They took the thirty pieces of silver,
+    the price of him upon whom a price had been set,
+    whom some of the children of Israel priced,
+10 and they gave them for the potter’s field,
+    as the Lord commanded me.”
+```
+
+
+
+
