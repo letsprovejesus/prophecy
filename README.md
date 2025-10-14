@@ -298,3 +298,57 @@ Incidentally, this story is also described in Mark 14:10–11 and Luke 22:3–6,
 
 ---
 
+# The Suffering of the Messiah
+
+Isaiah 50:5–6 describes how the Messiah will suffer before the crucifixion. It says the following. 
+
+```
+5 The Sovereign Lord has opened my ears;
+    I have not been rebellious,
+    I have not turned away.
+6 I offered my back to those who beat me,
+    my cheeks to those who pulled out my beard;
+I did not hide my face
+    from mocking and spitting.
+```
+
+The meaning here is as follows: The servant of God suffers voluntarily, without resistance, and endures beatings and mockery. This is fulfilled in the New Testament in the following passage: Matthew 26:67, Matthew 27:30.
+
+```
+67 Then they spit in his face and struck him with their fists. Others slapped him
+```
+
+```
+30 They spit on him, and took the staff and struck him on the head again and again.
+```
+
+# How likely is this?
+
+In the case of “Jesus is beaten, spat on, and mocked” (Isaiah 50:6 → Matthew 26–27), we are talking about something that is easy to imagine in terms of content, but nevertheless remarkable in its frequency and precision.
+Let's take a realistic and differentiated look at this.
+
+Statements in the text:
+
+beaten
+
+spit on / mocked
+
+beard torn out / humiliation
+
+voluntarily endured
+
+In the fulfillment in the New Testament: Three of the four details are literally fulfilled here: beatings, mockery, spitting.
+
+### 📊 Step 3: Probability Estimate — "He will be struck, spat upon, and mocked" (Isaiah 50:6 → Matthew 26–27)
+
+| Detail | Prophecy (Isaiah 50:6) | Fulfillment (Matthew 26–27) | Estimated Random Probability |
+|---------|-------------------------|------------------------------|-------------------------------|
+| 1️⃣ Struck / beaten | “I offered my back to those who struck me.” | Jesus is beaten by guards (Matthew 26:67). | ~1 : 5 (physical violence common in executions) |
+| 2️⃣ Spat upon | “I did not hide my face from mocking and spitting.” | Jesus is spat on (Matthew 26:67; 27:30). | ~1 : 20 (not always part of executions) |
+| 3️⃣ Mocked / humiliated | “I did not hide my face from shame and spitting.” | Soldiers and crowds mock him (Matthew 27:29, 39–44). | ~1 : 10 (public ridicule likely but not certain) |
+
+**Combined random probability (assuming independence):**
+
+P(random) = 1/5 × 1/20 × 1/10 = 1/1,000
+
+➡️ Roughly **1 in 1,000** chance that all three details would coincide purely by coincidence.
