@@ -172,6 +172,69 @@ But they said, “What is that to us? You see to it.”
     as the Lord commanded me.”
 ```
 
+Matthew explicitly comments:
+
+``Then that which was spoken through Jeremiah[a] the prophet was fulfilled, saying...``
+(Matthew 27:9–10)
+
+It is interesting to note that Matthew writes
+
+“... what was said through the prophet Jeremiah ...”
+even though the words are found in Zechariah 11:12–13.
+
+This is usually explained as follows:
+
+Matthew summarizes Jeremiah 19 (the potter's field) and Zechariah 11 (the 30 pieces of silver).
+
+In Jewish tradition, “Jeremiah” often stood for the entire prophetic role (Jeremiah was the first prophet in the scriptural order at that time).
+
+Jeremiah 19 is actually the key to understanding why Matthew 27:9–10 attributes the words about the 30 pieces of silver to “Jeremiah,” even though they actually come from Zechariah 11:12–13.
+Let's look at this step by step.
+
+Jeremiah 19, 1-2:
+```
+19 Thus said Yahweh, “Go, and buy a potter’s earthen container, and take some of the elders of the people and of the elders of the priests; 2 and go out to the valley of the son of Hinnom, which is by the entry of the gate Harsith, and proclaim there the words that I will tell you. 
+```
+
+God commands Jeremiah to buy a vessel from the potter and then break it in front of the leaders of Israel—as a sign of the coming judgment on Jerusalem.
+
+Jeremiah 19:10–11 – The sign of judgment
+
+```
+10 “Then you shall break the container in the sight of the men who go with you, 11 and shall tell them, ‘Yahweh of Armies says: “Even so I will break this people and this city as one breaks a potter’s vessel, that can’t be made whole again. They will bury in Topheth until there is no place to bury.
+```
+
+The potter's jar symbolizes Jerusalem, which is judged and broken because of its sin.
+
+Connection to Matthew 27
+
+Matthew 27:3–10 reports:
+
+Judas repented of his betrayal,
+threw the 30 pieces of silver into the temple,
+and the priests bought a potter's field with them
+– “as a burial place for strangers.”
+
+Then Matthew comments:
+
+"Then what was said through the prophet Jeremiah was fulfilled ...
+and they took the thirty pieces of silver, the price of the valued one,
+and gave them for the potter's field ..."
+— Matthew 27:9–10
+
+Matthew combines two Old Testament images:
+
+Zechariah 11:12–13: 30 pieces of silver thrown into the house of the Lord,
+ Theme: betrayal, payment, devaluation
+
+Jeremiah 19: Potter and the valley of judgment
+Theme: Punishment, judgment on Israel
+
+Just to explain, so you understand the context. Now let's calculate how likely that is.
+
+# How likely is it that
+
+
 
 
 
