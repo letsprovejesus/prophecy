@@ -386,7 +386,7 @@ The servant of God does not retreat, even when faced with suffering, ridicule, o
 
 He trusts in God and remains unshaken within.
 
-### ✝️ 2. Fulfillment in the New Testament
+### 2. Fulfillment in the New Testament
 
 | Reference | Description | Parallel to Isaiah 50:7 |
 |------------|--------------|--------------------------|
@@ -565,16 +565,16 @@ The time gap of **about 150–180 years** between the prophecy and its fulfillme
 
 ---
 
-### 🧮 Combined Probability (approximate, assuming partial independence)
+### Combined Probability (approximate, assuming partial independence)
 
 P(random) = 1/100 × 1/1 000 × 1/500 × 1/100  
 ≈ **1 / 5 × 10⁹** (≈ 1 in 5 billion)
 
-➡️ Roughly **one chance in five billion** that all these specific details could align purely by coincidence.
+Roughly **one chance in five billion** that all these specific details could align purely by coincidence.
 
 ---
 
-### 💡 Interpretation
+### Interpretation
 - **Isaiah wrote ~150–180 years before** Babylon’s fall, when **Assyria** was still the dominant empire.  
 - He **named the exact future invaders (Medes)** and described **permanent ruin**, which history confirms.  
 - While any single prediction might be luck, the **combination of timing, naming, and lasting desolation** makes a random fulfillment **extremely improbable**.
