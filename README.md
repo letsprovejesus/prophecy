@@ -923,4 +923,15 @@ Highly unlikely, right? And here we are currently assuming a 50-50 chance. I hav
 | 10 | Destruction of Tyre (Ezekiel 26) | 5 | 1 / 1.25 × 10¹³ | 8.0 × 10⁻¹⁴ | 1/50 × 1/1,000 × 1/1,000 × 1/500 × 1/500 |
 | **—** | **Total Combined Probability** | **36 Prophecies** | **≈ 1 : 1.17 × 10⁷⁶** | **~8.5 × 10⁻⁷⁷** | Product of all sections |
 
+Brief comparisons to 1 in 1.17 × 10^76 (~8.55 × 10^-77):
+
+Atoms in the observable universe: roughly ≈ 10^80.
+⇒ Your event is about 10,000 times more likely than “selecting a specific atom in the entire universe” (because 10^76 < 10^80).
+
+Coin tosses: corresponds to approximately 253 fair coin tosses in a row with a specific result (e.g., heads 253 times).
+
+Winning the US Powerball: hitting about 9 jackpots in a row.
+(1 : 292,201,338)^9 ≈ 1 : 1.5 × 10^76 — almost identical.
+
+That's just incredible, isn't it? Mathematically speaking, it can't be a coincidence. These prophecies must come from God. But we're not stopping there. Let's continue.
 
