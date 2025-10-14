@@ -906,3 +906,21 @@ A 50-50 prediction is actually like flipping a coin. When we flip a coin, we hav
 | 36 heads                | astronomically unlikely     | 1.46×10⁻¹¹            | Picking 1 specific item out of ~100 billion on the first try  |
 
 Highly unlikely, right? And here we are currently assuming a 50-50 chance. I have already calculated the approximate probabilities for the individual prophecies, and we will now multiply these.
+
+# Multiplying the correct probabilities
+
+| # | Section / Theme | Individual Details | Combined Probability (from individual values) | Approximate Decimal | Notes |
+|---|------------------|--------------------|----------------------------------------------|----------------------|--------|
+| 1 | Birth in Bethlehem | 1 | 1 / 1,000 | 1.0 × 10⁻³ | Small village probability |
+| 2 | Virgin Birth | 1 | 1 / 2 | 5.0 × 10⁻¹ | Simplified 50% assumption |
+| 3 | Betrayal for 30 Pieces of Silver | 3 | 1 / 5,000,000 | 2.0 × 10⁻⁷ | 1/1,000 × 1/100 × 1/50 |
+| 4 | Suffering of the Messiah (Isaiah 50:6) | 3 | 1 / 1,000 | 1.0 × 10⁻³ | 1/5 × 1/20 × 1/10 |
+| 5 | Steadfastness of Jesus (Isaiah 50:7) | 3 | 1 / 150 | 6.7 × 10⁻³ | 1/5 × 1/3 × 1/10 |
+| 6 | Crucifixion & Death (Isaiah 52–53) | 8 | 1 / 10¹⁵ | 1.0 × 10⁻¹⁵ | From 8 detailed points |
+| 7 | Destruction of Babylon | 4 | 1 / 5,000,000,000 | 2.0 × 10⁻¹⁰ | 1/100 × 1/1,000 × 1/500 × 1/100 |
+| 8 | World Empires (Book of Daniel) | 4 | 1 / 2.5 × 10¹² | 4.0 × 10⁻¹³ | 1/10,000 × 1/1,000 × 1/500 × 1/500 |
+| 9 | Return of Israel | 4 | 1 / 50,000,000,000 | 2.0 × 10⁻¹¹ | 1/100 × 1/1,000 × 1/1,000 × 1/500 |
+| 10 | Destruction of Tyre (Ezekiel 26) | 5 | 1 / 1.25 × 10¹³ | 8.0 × 10⁻¹⁴ | 1/50 × 1/1,000 × 1/1,000 × 1/500 × 1/500 |
+| **—** | **Total Combined Probability** | **36 Prophecies** | **≈ 1 : 1.17 × 10⁷⁶** | **~8.5 × 10⁻⁷⁷** | Product of all sections |
+
+
