@@ -697,6 +697,8 @@ Below is a simplified statistical approximation of how unlikely it would be for 
 
 ---
 
+# The prophecy of the return of the Israelites
+
 ### 🧮 Combined Probability (approximation)
 
 If the first four historical details are treated as roughly independent:
@@ -716,5 +718,88 @@ P(random) ≈ 1/10 000 × 1/1 000 × 1/500 × 1/500
 
 > **In short:**  
 > Daniel’s description of the four empires is not a lucky guess — it is one of the most striking long-range prophetic sequences in ancient literature.
+
+---
+
+## 🇮🇱 The Return of the Jewish People to the Land of Israel — Biblical Prophecy and Historical Fulfillment
+
+The return of the Jewish people to their ancestral homeland is one of the **central and most remarkable prophecies** of the Bible.  
+It appears in **two distinct phases**:  
+1️⃣ the **first return** from the Babylonian exile in the 6th century BC,  
+2️⃣ and a **future, worldwide regathering** that many believe corresponds to the **modern rebirth of Israel in 1948**.
+
+---
+
+### 📜 1. First Fulfillment — Return from the Babylonian Exile (6th Century BC)
+
+After Jerusalem was destroyed in 586 BC, the Jews lived in Babylonian captivity for 70 years.  
+Several prophets — **Isaiah, Jeremiah, Daniel, and Ezekiel** — foretold not only the exile but also the **return** to their land.
+
+| Prophet | Reference | Prophecy | Fulfillment |
+|----------|------------|-----------|--------------|
+| **Isaiah** | Isaiah 44:28 – 45:1 | God names **Cyrus** as the king who will let Israel return and rebuild Jerusalem. | **Cyrus the Great** issued the decree in **538 BC** allowing Jews to return. |
+| **Jeremiah** | Jeremiah 29:10 | “After seventy years are completed at Babylon, I will bring you back.” | The exile lasted about **70 years** (606–536 BC). |
+| **Daniel** | Daniel 9:2 | Daniel reads Jeremiah and prays for restoration. | Daniel witnesses Cyrus’ decree. |
+| **Ezra 1:1–3** | — | Cyrus officially permits the Jews to rebuild the Temple. | Confirmed by the **Cyrus Cylinder** (British Museum). |
+
+➡️ These predictions were **fulfilled literally and historically** in the 6th century BC.
+
+---
+
+### 🌍 2. Second Fulfillment — Worldwide Regathering of Israel
+
+Many later prophecies speak of a **second return**, not just from Babylon but from **all nations of the earth** — a global restoration.  
+This points beyond the ancient exile and aligns closely with the **modern return of Jews to Israel (1948–present)**.
+
+| Prophet | Reference | Key Message |
+|----------|------------|-------------|
+| **Isaiah 11:11–12** | “The Lord will set His hand **a second time** to recover the remnant of His people from the four corners of the earth.” |
+| **Jeremiah 31:8–10** | “I will bring them from the north country and gather them from the ends of the earth.” |
+| **Ezekiel 36:24** | “I will take you from among the nations and bring you into your own land.” |
+| **Ezekiel 37:21–22** | “I will gather them from every side and make them one nation in their own land.” |
+| **Amos 9:14–15** | “I will plant them in their land, and they shall **never again be uprooted** from it.” |
+
+➡️ These verses explicitly describe a **worldwide regathering**, a **second restoration**, and **permanent resettlement** — all details that go far beyond the Babylonian return.
+
+---
+
+### 🕎 3. Historical Development — Modern Fulfillment
+
+| Year | Historical Event | Connection to Prophecy |
+|------|-------------------|-------------------------|
+| **70 AD** | Jerusalem destroyed by Rome; Jews dispersed among the nations. | Predicted dispersion: *Deuteronomy 28:64*. |
+| **1897** | First Zionist Congress (Theodor Herzl, Basel). | Beginning of the modern “return movement.” |
+| **1917** | Balfour Declaration: British support for a Jewish homeland in Palestine. | Step toward restoration. |
+| **1948** | **State of Israel declared** on May 14. | Echoes Isaiah 11:11 and Ezekiel 37:21. |
+| **1990s–today** | Massive immigration from Russia, Ethiopia, USA, Europe. | “I will gather you from all nations” (Ezekiel 36:24). |
+
+---
+
+### 📊 4. Probability Estimate
+
+| Event | Prophetic Statement | Estimated Random Probability |
+|--------|---------------------|-------------------------------|
+| Return after 70 years from Babylon | Jeremiah 29:10 | ~1 : 100 |
+| Return under a king **named Cyrus** | Isaiah 44:28 – 45:1 | ~1 : 1,000 (name given 150 years in advance) |
+| Worldwide regathering of Israel in the last days | Isaiah 11:11; Ezekiel 36:24 | ~1 : 1,000 |
+| Permanent settlement — “never again uprooted” | Amos 9:15 | so far accurate (~1 : 500) |
+
+**Combined probability (approximation):**
+
+P(random) = 1/100 × 1/1,000 × 1/1,000 × 1/500 ≈ **1 / 50,000,000,000**
+
+➡️ Roughly **1 in 50 billion** chance that all these prophecies would align by coincidence.
+
+---
+
+### 💡 5. Summary
+
+The **return of the Jewish people** is one of the **most clearly fulfilled prophecies in history**:
+
+1. **Historically** — The return from Babylon (6th century BC) fulfilled Jeremiah and Isaiah exactly.  
+2. **Globally** — The modern restoration (1948–present) mirrors prophecies of a second, worldwide return.  
+
+The **Dead Sea Scrolls** confirm that these prophetic texts (Isaiah, Ezekiel, Amos) existed **centuries before Christ**, ruling out any post-event editing.  
+Thus, the restoration of Israel stands as one of the **most verifiable and ongoing prophetic fulfillments** in world history — visible to this very day.
 
 
