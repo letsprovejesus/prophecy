@@ -396,7 +396,7 @@ He trusts in God and remains unshaken within.
 
 ---
 
-### 📊 3. Probability Estimate (realistic approximation)
+### 3. Probability Estimate (realistic approximation)
 
 | Feature | Prophecy (Isaiah 50:7) | Fulfillment (in Jesus) | Estimated Random Probability |
 |----------|-------------------------|------------------------|-------------------------------|
@@ -554,7 +554,7 @@ The time gap of **about 150–180 years** between the prophecy and its fulfillme
 
 # How likely is this?
 
-### 📊 Probability Estimate — Isaiah 13 (Prophecy of Babylon’s Fall)
+### Probability Estimate — Isaiah 13 (Prophecy of Babylon’s Fall)
 
 | Predicted Event | Description (from Isaiah 13) | Historical Fulfillment | Estimated Random Probability |
 |------------------|-------------------------------|------------------------|-------------------------------|
@@ -593,7 +593,7 @@ The Book of Daniel describes visions spanning approximately 70 years.
 
 However, the text itself speaks of events that lie centuries in the future.
 
-### 🪞 2. The Vision of the Four World Empires (Daniel 2)
+### 2. The Vision of the Four World Empires (Daniel 2)
 
 In Daniel 2, King **Nebuchadnezzar of Babylon** dreams of a huge **statue made of four metals** — gold, silver, bronze, and iron (with clay mixed in the feet).  
 Daniel interprets the dream as a prophecy about **four successive world empires** that will rise and fall, followed by a fifth kingdom established by God.
@@ -710,7 +710,7 @@ P(random) ≈ 1/10 000 × 1/1 000 × 1/500 × 1/500
 
 ---
 
-### 💡 Interpretation
+### Interpretation
 
 - Daniel’s visions outline over **six centuries of imperial history** with correct order and unique identifying features.  
 - Even under conservative assumptions, the probability of this alignment arising accidentally is **astronomically small**.  
@@ -804,9 +804,9 @@ Thus, the restoration of Israel stands as one of the **most verifiable and ongoi
 
 ---
 
-## ⚓ Prophecy Against Tyre — Ezekiel 26–28
+## Prophecy Against Tyre — Ezekiel 26–28
 
-### 📖 1. The Prophecy (Ezekiel 26:1–14)
+### 1. The Prophecy (Ezekiel 26:1–14)
 
 In the 6th century BC, the prophet **Ezekiel** delivered a detailed prophecy about the destruction of **Tyre (Tyrus)**, a powerful Phoenician port city on the Mediterranean coast.
 
@@ -822,7 +822,7 @@ In the 6th century BC, the prophet **Ezekiel** delivered a detailed prophecy abo
 
 ---
 
-### 🏛️ 2. Key Details of the Prophecy
+### 2. Key Details of the Prophecy
 
 | Detail | Description | Predicted in Ezekiel | Historical Fulfillment |
 |--------|--------------|----------------------|------------------------|
@@ -834,7 +834,7 @@ In the 6th century BC, the prophet **Ezekiel** delivered a detailed prophecy abo
 
 ---
 
-### 🧭 3. Historical Overview
+### 3. Historical Overview
 
 | Year | Event | Description |
 |------|--------|-------------|
@@ -864,7 +864,7 @@ P(random) = 1/50 × 1/1 000 × 1/1 000 × 1/500 × 1/500
 
 ---
 
-### 💡 5. Summary
+### 5. Summary
 
 The prophecy against Tyre (Ezekiel 26–28) stands out for its **specificity and layered fulfillment**:
 
@@ -1027,7 +1027,7 @@ Here are some cosmic and mathematical comparisons to help visualize how unlikely
 
 ---
 
-## 🌌 Cosmic Scale Comparisons
+## Cosmic Scale Comparisons
 
 | Comparison | Estimated Magnitude | Relation to Your Probability |
 |-------------|--------------------|------------------------------|
@@ -1039,7 +1039,7 @@ Here are some cosmic and mathematical comparisons to help visualize how unlikely
 
 ---
 
-## 🧮 Probability Perspective
+## Probability Perspective
 
 - Comparable to randomly selecting **one specific atomic nucleus**  
   from **10⁵⁵ universes** the size of ours — and hitting the right one on the first try.
@@ -1049,7 +1049,7 @@ Here are some cosmic and mathematical comparisons to help visualize how unlikely
 
 ---
 
-## 💬 In Simple Terms
+## In Simple Terms
 
 > The probability is so small that it’s beyond any physical comparison within the known universe.  
 > Statistically, it’s equivalent to identifying a single atom out of trillions upon trillions of universes — and guessing correctly on the first attempt.
