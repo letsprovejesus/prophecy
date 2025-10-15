@@ -965,3 +965,93 @@ But even that is not enough, so here are some more prophecies about Jesus
 | 13 | Called “Lord” and “God” | Psalm 45:6; Isaiah 9:6 | John 20:28; Luke 1:32–33 | 1 : 100 |
 | 14 | Brings a New Covenant | Jeremiah 31:31–34 | Luke 22:20; Hebrews 8:8–12 | 1 : 1,000 |
 | 15 | Light to the Gentiles | Isaiah 49:6 | Acts 13:47; Luke 2:32 | 1 : 500 |
+
+This alone gives us 26 more prophecies. If we now assume that all of these prophecies have a 50-50 chance of coming true, we would have the following probability: 
+
+| Source | Number of Prophecies | Description |
+|---------|----------------------|-------------|
+| Original document | 36 | The initial set of prophecies already analyzed and calculated (Bethlehem, Virgin Birth, Suffering, Crucifixion, Babylon, Tyre, etc.) |
+| Additional Jesus-related prophecies (Table 1) | 11 | Specific prophecies about Jesus' life, death, and resurrection not included in the first set (e.g., donkey entry, pierced side, darkness, resurrection) |
+| Further Messianic prophecies (Table 2 – refined) | 15 | Broader messianic predictions not yet listed (e.g., tribe of Judah, ministry in Galilee, parables, new covenant, light to the Gentiles) |
+| **Total** | **62** | **All distinct Messianic prophecies combined** |
+
+# How likely is this? 
+
+# 50/50 Probability for 62 Independent Prophecies
+
+**Assumption:** Each prophecy has a 50% chance of being fulfilled by coincidence.
+
+**Formula:** (1/2)^62
+
+| Metric | Value |
+|---------|-------|
+| Exact Probability | (1/2)^62 |
+| Decimal | 0.0000000000000000002168404344971009 |
+| Scientific Notation | 2.17 × 10⁻¹⁹ |
+| As "1 in N" | 1 in 4,611,686,018,427,387,904 |
+| Percentage | 0.0000000000000000217 % |
+| Equivalent Event | Getting 62 heads in a row when flipping a fair coin |
+
+# Updated combined probability (adding the 26 new prophecies)
+
+**Starting point (old value):**  
+- Odds: **1 in 1.17 × 10^76**  
+- Probability: **8.55 × 10^-77**
+
+**Product of the 26 new prophecies (independent, as listed):**
+- Product of the 11-item table = **8.0 × 10^-29**
+- Product of the 15-item (refined) table = **2.6666666666666667 × 10^-32**  (this is exactly 8/3 × 10^-33 due to the 1/12 factor)
+- Combined product (26 total) = **2.1333333333333333 × 10^-60**
+
+**New overall probability:**
+- Old probability × Combined product  
+- **(8.55 × 10^-77) × (2.1333333333333333 × 10^-60) = 1.824 × 10^-136**
+
+---
+
+## Result (clean summary)
+
+| Metric | Value |
+|---|---|
+| Overall probability | **1.824 × 10^-136** |
+| As “1 in N” | **1 in 5.482456140350877 × 10^135** |
+| Check values used | Old: 8.55 × 10^-77; New (26): 2.1333333333333333 × 10^-60 |
+| Intermediate checks | 11-table: 8.0 × 10^-29 · 15-table: 2.6666666666666667 × 10^-32 |
+
+> Interpretation: under the same independence assumptions you used before, adding the 26 new prophecies reduces the combined probability to roughly **1 in 5.48 × 10^135**.
+
+# Comparison: Probability ≈ 1 in 5.5 × 10¹³⁵
+
+A probability this small is almost beyond comprehension.  
+Here are some cosmic and mathematical comparisons to help visualize how unlikely that is:
+
+---
+
+## 🌌 Cosmic Scale Comparisons
+
+| Comparison | Estimated Magnitude | Relation to Your Probability |
+|-------------|--------------------|------------------------------|
+| **Atoms in the entire observable universe** | ≈ 10⁸⁰ | Your probability is about **10⁵⁵ times smaller** |
+| **Protons in the universe** | ≈ 10⁷⁹ | Still **10⁵⁶ times smaller** |
+| **Planck time intervals since the Big Bang** | ≈ 10⁶¹ | Your number is **10⁷⁴ times smaller** |
+| **Possible chess games** | ≈ 10¹²⁰ | About **10¹⁵ times smaller** |
+| **All atoms in 10 billion universes** | ≈ 10⁹⁰ | Still **10⁴⁵ times smaller** |
+
+---
+
+## 🧮 Probability Perspective
+
+- Comparable to randomly selecting **one specific atomic nucleus**  
+  from **10⁵⁵ universes** the size of ours — and hitting the right one on the first try.
+
+- Or like flipping **450 fair coins** and getting **heads every single time**  
+  (≈ 1 in 10¹³⁵ chance).
+
+---
+
+## 💬 In Simple Terms
+
+> The probability is so small that it’s beyond any physical comparison within the known universe.  
+> Statistically, it’s equivalent to identifying a single atom out of trillions upon trillions of universes — and guessing correctly on the first attempt.
+
+
