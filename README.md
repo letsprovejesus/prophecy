@@ -930,8 +930,38 @@ Atoms in the observable universe: roughly ≈ 10^80.
 
 Coin tosses: corresponds to approximately 253 fair coin tosses in a row with a specific result (e.g., heads 253 times).
 
-Winning the US Powerball: hitting about 9 jackpots in a row.
-(1 : 292,201,338)^9 ≈ 1 : 1.5 × 10^76 — almost identical.
+# More prophecy about Jesus
 
-That's just incredible, isn't it? Mathematically speaking, it can't be a coincidence. These prophecies must come from God. But we're not stopping there. Let's continue.
+| # | Prophecy | Old Testament Reference | Fulfillment in NT | Estimated Random Probability |
+|---|-----------|------------------------|------------------|-------------------------------|
+| 1 | Entry into Jerusalem on a donkey | Zechariah 9:9 | Matthew 21:4–9; John 12:14–15 | 1 : 100 |
+| 2 | Betrayed by a friend | Psalm 41:9 | John 13:18–21 | 1 : 50 |
+| 3 | Soldiers cast lots for His clothing | Psalm 22:18 | John 19:23–24 | 1 : 1,000 |
+| 4 | Hands and feet pierced | Psalm 22:16 | Luke 24:39–40; John 20:25–27 | 1 : 500 |
+| 5 | No bones broken | Psalm 34:20 | John 19:33–36 | 1 : 200 |
+| 6 | Pierced side | Zechariah 12:10 | John 19:34–37 | 1 : 500 |
+| 7 | Resurrection on the third day | Hosea 6:2 | Luke 24:46; 1 Corinthians 15:4 | 1 : 1,000 |
+| 8 | Ascension into Heaven | Psalm 68:18 | Acts 1:9; Ephesians 4:8 | 1 : 500 |
+| 9 | Triumphal entry greeted with “Hosanna” | Psalm 118:25–26 | Matthew 21:9 | 1 : 100 |
+| 10 | Darkness at His death | Amos 8:9 | Luke 23:44–45 | 1 : 1,000 |
+| 11 | Resurrection / no decay (Messianic Psalm) | Psalm 16:10 | Acts 2:25–32 | 1 : 1,000 |
 
+But even that is not enough, so here are some more prophecies about Jesus
+
+| # | Prophecy | Old Testament Reference | Fulfillment in NT | Estimated Random Probability |
+|---|-----------|------------------------|------------------|-------------------------------|
+| 1 | Born from the tribe of Judah | Genesis 49:10 | Luke 3:33; Matthew 1:2–3 | 1 : 12 |
+| 2 | Descendant of David | 2 Samuel 7:12–13 | Luke 1:32–33; Matthew 1:1 | 1 : 100 |
+| 3 | Born of a woman (not an angelic being) | Genesis 3:15 | Galatians 4:4 | 1 : 2 |
+| 4 | Ministry begins in Galilee | Isaiah 9:1–2 | Matthew 4:12–16 | 1 : 100 |
+| 5 | Speaks in parables | Psalm 78:2 | Matthew 13:34–35 | 1 : 50 |
+| 6 | Heals the blind and lame | Isaiah 35:5–6 | Matthew 11:4–6; John 9 | 1 : 500 |
+| 7 | Spirit of the Lord upon Him (anointed) | Isaiah 61:1–2 | Luke 4:16–21 | 1 : 100 |
+| 8 | Enters the Temple before its destruction | Malachi 3:1 | Matthew 21:12; John 2:13–16 | 1 : 1,000 |
+| 9 | Forerunner prepares His way (John the Baptist) | Isaiah 40:3; Malachi 3:1 | Matthew 3:1–3 | 1 : 500 |
+| 10 | Zeal for God's house | Psalm 69:9 | John 2:17 | 1 : 100 |
+| 11 | Hated without cause | Psalm 69:4 | John 15:24–25 | 1 : 50 |
+| 12 | Seated at the right hand of God | Psalm 110:1 | Hebrews 1:3; Matthew 22:44 | 1 : 500 |
+| 13 | Called “Lord” and “God” | Psalm 45:6; Isaiah 9:6 | John 20:28; Luke 1:32–33 | 1 : 100 |
+| 14 | Brings a New Covenant | Jeremiah 31:31–34 | Luke 22:20; Hebrews 8:8–12 | 1 : 1,000 |
+| 15 | Light to the Gentiles | Isaiah 49:6 | Acts 13:47; Luke 2:32 | 1 : 500 |
