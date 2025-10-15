@@ -1055,3 +1055,6 @@ Here are some cosmic and mathematical comparisons to help visualize how unlikely
 > Statistically, it’s equivalent to identifying a single atom out of trillions upon trillions of universes — and guessing correctly on the first attempt.
 
 I could mention many more prophecies, but I believe that anyone with an open heart will now realize that this cannot be a coincidence. I can only recommend that everyone take a closer look at the subject of prophecy, listen to lectures about it on YouTube, and take a look at the list of all prophecies. I hope you enjoyed reading this. 
+
+https://www.bibelindex.de/de/lists/prophecies A lot of prophecies
+https://www.youtube.com/watch?v=vkb02jtqfa4&t=1s Roger Liebi talking about bible prophecy
